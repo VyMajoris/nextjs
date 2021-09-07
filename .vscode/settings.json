@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3D2737",
+        "titleBar.activeBackground": "#55364D",
+        "titleBar.activeForeground": "#FCFAFB"
+    },
+    "WillLuke.nextjs.hasPrompted": true
+}

@@ -49,6 +49,11 @@ module.exports = withMDX({
 				permanent: true,
 				destination: "/",
 			},
+			{
+				source: "/launcher",
+				destination: "https://www.globalconflicts.net/launcher",
+				permanent: true,
+			},
 		];
 	},
 });

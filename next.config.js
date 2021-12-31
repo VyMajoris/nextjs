@@ -51,7 +51,7 @@ module.exports = withMDX({
 			},
 			{
 				source: "/launcher",
-				destination: "https://www.globalconflicts.net/launcher",
+				destination: "https://launcher.globalconflicts.net",
 				permanent: true,
 			},
 		];
